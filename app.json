@@ -1,0 +1,27 @@
+{
+  "name": "DreamHouseJP Bot for LINE",
+  "description": "SalesforceによるLINE Botアプリケーション : Dreamhouseサンプル",
+  "env": {
+    "LINE_ACCESS_TOKEN": {
+      "description": "LINE アクセストークン",
+      "value":"",
+      "required":true
+    },
+    "SF_CLIENT_ID": {
+      "description": "Salesforce接続アプリケーションのコンシューマキー",
+      "value":""
+    },
+    "SF_CLIENT_SECRET": {
+      "description": "Salesforce接続アプリケーションのコンシューマシークレット",
+      "value":""
+    },
+    "SF_USER_NAME": {
+      "description": "インテグレーション用のSalesforceユーザ名",
+      "value":""
+    },
+    "SF_PASSWORD": {
+      "description": "インテグレーション用のSalesforceユーザのパスワード",
+      "value":""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "lineforcejp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salesforceDevjp@salesforce.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "fetch": "^1.0.1",
+    "moment": "^2.13.0",
+    "nforce": "^1.4.1",
+    "numeral": "^1.5.3",
+    "request": "^2.71.0",
+    "python-shell": "^0.4.0"
+  }
+}
